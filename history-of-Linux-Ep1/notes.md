@@ -63,9 +63,13 @@ Key contributors:
 - Learning and collaboration for users & developers
 
 Popular communities:
-- linux.org
-- kernel.org
-- distro-specific forums
+- unix.stackexchange.com
+- askubuntu.com
+- discourse.ubuntu.com
+- wiki.archlinux.org
+- bbs.archlinux.org
+- Libera.Chat
+- Linux Community Discord
 
 ---
 
