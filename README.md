@@ -6,7 +6,7 @@ A beginner-to-advanced Linux course explained in short, practical episodes.
 https://www.youtube.com/playlist?list=PLSUbdYwdBo9c4Pd6jyKGfVue1jF1T5tX0
 
 ## 📘 Course Structure
-- Episode 01 – History & Philosophy of Linux
+- Episode 01 – [History & Philosophy of Linux](https://www.youtube.com/watch?v=ctPt7ZAyIng)
 - Episode 02 – TBD
 - Episode 03 – TBD
 - Episode 04 – TBD
