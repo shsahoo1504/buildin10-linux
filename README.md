@@ -7,7 +7,7 @@ https://www.youtube.com/playlist?list=PLSUbdYwdBo9c4Pd6jyKGfVue1jF1T5tX0
 
 ## 📘 Course Structure
 - Episode 01 – [History & Philosophy of Linux](https://www.youtube.com/watch?v=ctPt7ZAyIng)
-- Episode 02 – TBD
+- Episode 02 – [Linux Distributions Explained | RHEL vs Debian vs SUSE](https://youtu.be/70t6JXXU3Z4?si=iOWS6kQHXEzrAEVD)
 - Episode 03 – TBD
 - Episode 04 – TBD
 - Episode 05 – TBD
