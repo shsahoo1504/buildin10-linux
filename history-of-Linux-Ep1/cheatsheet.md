@@ -70,7 +70,7 @@ Popular:
 - wiki.archlinux.org
 - bbs.archlinux.org
 - Libera.Chat
-- Linux Community Discord
+
 
 ---
 

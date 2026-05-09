@@ -20,7 +20,7 @@ https://www.youtube.com/playlist?list=PLSUbdYwdBo9c4Pd6jyKGfVue1jF1T5tX0
 - Working professionals
 
 ## 🤝 Community
-Discord: https://discord.gg/gBWQKQAn
+
 
 ## 👨‍🏫 Author
 Shubham – BuildIn10

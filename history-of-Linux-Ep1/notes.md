@@ -67,9 +67,7 @@ Popular communities:
 - askubuntu.com
 - discourse.ubuntu.com
 - wiki.archlinux.org
-- bbs.archlinux.org
-- Libera.Chat
-- Linux Community Discord
+- 
 
 ---
 
