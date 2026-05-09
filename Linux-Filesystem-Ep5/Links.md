@@ -15,4 +15,4 @@
 
 ---
 
-> 📺 **Watch the episode:** [Buildin10 on YouTube](youtube.com/@BuildIn10?sub_confirmation=1)
+> 📺 **Watch New Episodes:** [Buildin10 on YouTube](youtube.com/@BuildIn10?sub_confirmation=1)
